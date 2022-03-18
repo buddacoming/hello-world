@@ -1,3 +1,3 @@
 # hello-world
-This is my first GtiHub repository.
+第2个分支测试.
 Fine.It's working.
